@@ -1,0 +1,62 @@
+---
+title: "Events and Gatherings"
+type: "topic"
+---
+
+# Events and Gatherings
+
+**Posts about Events and Gatherings:**
+
+- [[2022-03-16_Post-Grace-Rachmany_Voice-of-Humanity-Joins-CSC-Mattermost|Voice of Humanity Joins CSC Mattermost]] by [[Grace Rachmany]] (2022-03-16)
+- [[2022-04-20_Post-Stacey-Druss_Events-of-Interest|Events of Interest]] by [[Stacey Druss]] (2022-04-20)
+- [[2022-07-20_Post-Unknown_Voice-of-Humanity-Updates|Voice of Humanity Updates]] by [[Unknown]] (2022-07-20)
+- [[2022-07-20_Post-Vincent-Arena_Kindred-Spirits-Ireland|Kindred Spirits Ireland]] by [[Vincent Arena]] (2022-07-20)
+- [[2022-10-05_Post-Jamaica-Stevens_Open-Future-Forum-October-18-20|Open Future Forum - October 18-20]] by [[Jamaica Stevens]] (2022-10-05)
+- [[2022-10-19_Post-Charles-Blass_Community-Wisdom-Gardening-Summit-and|Community Wisdom Gardening Summit and Pattern Jam]] by [[Charles Blass]] (2022-10-19)
+- [[2022-10-19_Post-Julian-Gomez_Virtual-Iron-Bird-Workshop-Website-2004|Virtual Iron Bird Workshop Website 2004]] by [[Julian Gómez]] (2022-10-19)
+- [[2022-11-02_Post-Peter-Kaminski_Thoughtful-Biometrics-Self-Sovereign|Thoughtful Biometrics Self-Sovereign Identity]] by [[Peter Kaminski]] (2022-11-02)
+- [[2022-11-16_Post-Peter-Kaminski_Community-Wisdom-Gardening-Co-Debrief|Community Wisdom Gardening Co-Debrief]] by [[Peter Kaminski]] (2022-11-16)
+- [[2022-12-07_Post-Forrist-Lytehaause_Planetary-CARE-Quick-Takes|Planetary CARE Quick Takes]] by [[Forrist Lytehaause]] (2022-12-07)
+- [[2022-12-07_Post-Killu-Sanborn_Vision-For-Good-Living-Website-Launched|Vision For Good Living Website Launched]] by [[Killu Sanborn]] (2022-12-07)
+- [[2023-02-01_Post-Julian-Gomez_Program-Chair-2024-SIGGRAPH|Program Chair, 2024 SIGGRAPH]] by [[Julian Gómez]] (2023-02-01)
+- [[2023-03-01_Post-Unknown_Thoughtful-Biometrics|Thoughtful Biometrics]] by [[Unknown]] (2023-03-01)
+- [[2023-03-15_Post-Doc-Searls_Beyond-the-Web-Cory-Doctorow|Beyond the Web Cory Doctorow]] by [[Doc Searls]] (2023-03-15)
+- [[2023-03-15_Post-Jordan-Sukut_Toward-a-World-That-Cherishes-the-Well|Toward a World That Cherishes the Well-Being of All]] by [[Jordan Sukut]] (2023-03-15)
+- [[2023-04-05_Post-Peter-Kaminski_Complexity-Adventures-April-Summit|Complexity Adventures April Summit]] by [[Peter Kaminski]] (2023-04-05)
+- [[2023-04-19_Post-Peter-Kaminski_Complexity-Adventures-April-Summit|Complexity Adventures April Summit]] by [[Peter Kaminski]] (2023-04-19)
+- [[2023-04-19_Post-Kevin-Jones_Impact-DAOs-Doughnut-Economics|Impact DAOs, Doughnut Economics]] by [[Kevin Jones]] (2023-04-19)
+- [[2023-04-19_Post-Klaus-Mager_The-Aim-of-a-System|The Aim of a System]] by [[Klaus Mager]] (2023-04-19)
+- [[2023-06-07_Post-Charles-Blass_Identity-In-The-Age-Of-Generative-AI|Identity In The Age Of Generative AI]] by [[Charles Blass]] (2023-06-07)
+- [[2023-06-07_Post-Mark-Bernstein_Jerrys-Brain-And-Tinderbox|Jerrys Brain And Tinderbox]] by [[Mark Bernstein]] (2023-06-07)
+- [[2023-06-21_Post-John-Abbe_SeaCHANGE-with-Beth-Tener|SeaCHANGE with Beth Tener]] by [[John Abbe]] (2023-06-21)
+- [[2023-08-02_Post-Julian-Gomez_SIGGRAPHs-50th-A-Rather-Spectacular|SIGGRAPHs 50th A Rather Spectacular Gallery]] by [[Julian Gómez]] (2023-08-02)
+- [[2023-09-20_Post-Vincent-Arena_Transformative-Impact-Summit-NYC-922-24|Transformative Impact Summit, NYC 922-24]] by [[Vincent Arena]] (2023-09-20)
+- [[2023-09-20_Post-George-Por_Wisdom-in-the-AIceberg|Wisdom in the AIceberg]] by [[George Pór]] (2023-09-20)
+- [[2023-10-04_Post-Julian-Gomez_SIGGRAPH-2023|SIGGRAPH 2023]] by [[Julian Gómez]] (2023-10-04)
+- [[2023-10-04_Post-Julian-Gomez_Dent-2023|Dent 2023]] by [[Julian Gómez]] (2023-10-04)
+- [[2023-10-18_Post-David-Witzel_Fixing-our-Food-System-Regen-Ag-Summit|Fixing our Food System Regen Ag Summit, 1020-22 on Zoom]] by [[David Witzel]] (2023-10-18)
+- [[2023-11-01_Post-Hank-Kune_Trees-of-Paris|Trees of Paris]] by [[Hank Kune]] (2023-11-01)
+- [[2023-11-15_Post-Gil-Friend_How-about-an-energy-transition-at-18-ROI|How about an energy transition  at 18 ROI?!]] by [[Gil Friend]] (2023-11-15)
+- [[2023-12-20_Post-George-Por_THREE-MOUNTAINS-TLDR|THREE MOUNTAINS  TLDR]] by [[George Pór]] (2023-12-20)
+- [[2023-12-20_Post-George-Por_THREE-MOUNTAINS|THREE MOUNTAINS]] by [[George Pór]] (2023-12-20)
+- [[2023-12-20_Post-Peter-Kaminski_Gil-Friend-with-Peter-Kaminski-2023-12|Gil Friend with Peter Kaminski, 2023-12-05]] by [[Peter Kaminski]] (2023-12-20)
+- [[2024-01-03_Post-Charles-Blass_dashboard-gardening-2024|dashboard gardening 2024]] by [[Charles Blass]] (2024-01-03)
+- [[2024-01-03_Post-Wendy-Elford_Trip-Report-SIGGRAPH-Asia-2023|Trip Report SIGGRAPH Asia 2023]] by [[Wendy Elford]] (2024-01-03)
+- [[2024-01-03_Post-Peter-Kaminski_Jack-Park-with-Peter-Kaminski-2023-12-06|Jack Park with Peter Kaminski, 2023-12-06]] by [[Peter Kaminski]] (2024-01-03)
+- [[2024-02-07_Post-Kevin-Jones_Neighborhood-Economics-Course-at-12|Neighborhood Economics Course at 12 Baskets]] by [[Kevin Jones]] (2024-02-07)
+- [[2024-02-21_Post-David-Witzel_squintEmerging-Bioregion-Self|squintEmerging Bioregion Self-Awarenesssquint]] by [[David Witzel]] (2024-02-21)
+- [[2024-02-21_Post-Ken-Homer_The-Importance-of-a-Gathering-Place|The Importance of a Gathering Place]] by [[Ken Homer]] (2024-02-21)
+- [[2024-03-20_Post-Unknown_RIP-Harrison-Owen|RIP Harrison Owen]] by [[Unknown]] (2024-03-20)
+- [[2024-05-01_Post-Peter-Kaminski_A-Vibrant-Ecosystem-of-Freelancers|A Vibrant Ecosystem of Freelancers]] by [[Peter Kaminski]] (2024-05-01)
+- [[2024-07-03_Post-Peter-Kaminski_Julian-Gomez-with-Peter-Kaminski-2024|Julian Gómez with Peter Kaminski, 2024-07-03]] by [[Peter Kaminski]] (2024-07-03)
+- [[2024-08-21_Post-Julian-Gomez_SIGGRAPH-2024|SIGGRAPH 2024]] by [[Julian Gómez]] (2024-08-21)
+- [[2024-10-16_Post-David-Witzel_Weaving-the-Regeneration-Web-Two-Strands|Weaving the Regeneration Web - Two Strands]] by [[David Witzel]] (2024-10-16)
+- [[2024-11-06_Post-Charles-Blass_Tech-We-Want-Lee-Felsenstein|Tech We Want  Lee Felsenstein]] by [[Charles Blass]] (2024-11-06)
+- [[2024-11-06_Post-Gil-Friend_Its-Not-Complicated-Its-Complex|Its Not Complicated, Its Complex]] by [[Gil Friend]] (2024-11-06)
+- [[2024-11-20_Post-Charles-Blass_Plex-Resonant-Community-Events|Plex-Resonant Community Events, Dialogues, and Publications]] by [[Charles Blass]] (2024-11-20)
+- [[2024-12-04_Post-Kevin-Jones_Can-We-Create-a-Resilience-Corps-on-the|Can We Create a Resilience Corps on the Swannanoa?]] by [[Kevin Jones]] (2024-12-04)
+- [[2025-02-05_Post-Kevin-Jones_After-the-Flood-Resilient|After the Flood Resilient Entrepreneurial Ecosystems]] by [[Kevin Jones]] (2025-02-05)
+- [[2025-03-19_Post-David-Witzel_Co-Creating-A-Thriving-Future-for-the|Co-Creating A Thriving Future for the Bay Area An Unconference, 3 May]] by [[David Witzel]] (2025-03-19)
+- [[2025-08-20_Post-Peter-Kaminski_Trust-and-Information-OGM-Call-2025-08|Trust and Information - OGM Call, 2025-08-14]] by [[Peter Kaminski]] (2025-08-20)
+
+**Total posts:** 51

@@ -1,0 +1,36 @@
+# macOS
+.DS_Store
+
+# Emacs
+*~
+\#*\#
+
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+.pytest_cache/
+.coverage
+
+# Obsidian
+.obsidian/
+# baseline gitignore for MARKPUB
+# for Obsidian.md vaults
+.obsidian/*
+
+# Python
+__pycache__
+venv
+
+# Node
+node_modules
+
+# MARKPUB
+.markpub/output/*
+
+# Claude Code
+.claude
+

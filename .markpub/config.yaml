@@ -1,0 +1,41 @@
+# Markpub configuration for Plex Archive Massive Wiki
+# Configuration for publishing Markdown files as a website
+
+site:
+  title: "Plex Archive"
+  description: "A Massive Wiki containing posts from the Biweekly Plex Dispatch published by Pete from 2022 to 2025"
+  url: "https://plex-archive.netlify.app"  # Update with actual URL when deployed
+  author: "Peter Kaminski"
+  email: "kaminski@istori.com"
+
+# Wiki-specific settings
+wiki:
+  default_page: "README"
+  sidebar: "Sidebar"
+  navigation_links: true
+  backlinks: true
+
+# Content processing
+content:
+  wiki_links: true  # Enable [[wiki-style]] links
+  file_extensions: [".md", ".markdown"]
+  ignore_patterns:
+    - "scripts/**"
+    - "venv/**"
+    - "issues/**"
+    - "__pycache__/**"
+    - ".git/**"
+
+# Build settings
+build:
+  output_dir: "_site"
+  clean_build: true
+
+# Theme and styling (if applicable)
+theme:
+  name: "default"
+  highlight_code: true
+
+# Analytics (optional)
+# analytics:
+#   google_analytics: "GA_MEASUREMENT_ID"

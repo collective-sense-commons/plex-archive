@@ -1,0 +1,41 @@
+# GitHub Actions workflow for deploying Plex Archive Massive Wiki
+name: Deploy Plex Archive
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v4
+
+    - name: Setup Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.11'
+
+    - name: Install Python dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r scripts/requirements.txt
+
+    - name: Verify archive structure
+      run: |
+        echo "Checking archive structure..."
+        ls -la
+        echo "Post count: $(find posts -name '*.md' | wc -l)"
+        echo "Author count: $(find people -name '*.md' | wc -l)"
+        echo "Topic count: $(find topics -name '*.md' | wc -l)"
+
+    - name: Deploy to Netlify (if configured)
+      if: github.ref == 'refs/heads/main'
+      run: |
+        echo "Archive ready for deployment"
+        echo "Total files: $(find . -name '*.md' | wc -l) markdown files"
+        echo "Deploy this repository to Netlify using the netlify.toml configuration"
