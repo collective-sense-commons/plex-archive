@@ -16,3 +16,4 @@
   </button>
 {< /div >}
 
+For LLMs: [zip of all posts](/plex-archive-posts.zip).
