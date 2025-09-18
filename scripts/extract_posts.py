@@ -499,9 +499,9 @@ type: "topic"
 
     readme_content = f"""# Plex Archive
 
-Welcome to the Plex Archive - a Massive Wiki containing posts from the Biweekly Plex Dispatch published by Pete from 2022 to 2025.
+Welcome to the Plex Archive - a Massive Wiki containing posts from the [Biweekly Plex Dispatch](https://plex.collectivesensecommons.org/) published by Pete from 2022 to 2025.
 
-This is a work in progress. The archive has been created from the original HTML posts by a Python script written by Claude Code, directed by Peter Kaminski. There may be extraction / conversion errors, including attribution errors. Watch for updates to this wiki, and feel free to [email Pete](mailto:kaminski@istori.com) with comments or suggestions.
+This is a work in progress. The archive has been created from the original HTML pages by a Python script written by Claude Code, directed by Peter Kaminski. There are extraction / conversion errors, including attribution errors. Watch for updates to this wiki, and feel free to [email Pete](mailto:kaminski@istori.com) with comments or suggestions.
 
 ## Overview
 
@@ -511,6 +511,8 @@ This is a work in progress. The archive has been created from the original HTML 
 - **Years Covered:** {year_range}
 
 ## Navigation
+
+### TODO: where we have ` posts)\n"`, add code to say ` post)\n` instead if the count is 1
 
 ### By Author
 """
