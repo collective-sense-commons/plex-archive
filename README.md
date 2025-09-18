@@ -4,6 +4,8 @@ Welcome to the Plex Archive - a Massive Wiki containing posts from the [Biweekly
 
 This is a work in progress. The archive has been created from the original HTML pages by a Python script written by Claude Code, directed by Peter Kaminski. There are extraction / conversion errors, including attribution errors. Watch for updates to this wiki, and feel free to [email Pete](mailto:kaminski@istori.com) with comments or suggestions.
 
+There is a [zip of all posts](/plex-archive-posts.zip) in Markdown format, useful for archiving or processing with AI.
+
 ## Overview
 
 - **Total Posts:** 614
