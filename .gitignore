@@ -1,3 +1,6 @@
+# don't save media archives to Git forge
+plex_media_archive
+
 # macOS
 .DS_Store
 
