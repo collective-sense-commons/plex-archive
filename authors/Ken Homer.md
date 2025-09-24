@@ -148,5 +148,8 @@ type: "author"
 - [[2025-09-03_Post-Ken-Homer_Fall-1986-Transgenerational-Patterns|Fall 1986 - Transgenerational Patterns]] (2025-09-03)
 - [[2025-09-03_Post-Ken-Homer_Fall-2003-CPR|Fall 2003 - CPR]] (2025-09-03)
 - [[2025-09-03_Post-Ken-Homer_Affirming-Life|Affirming Life]] (2025-09-03)
+- [[2025-09-17_Post-Ken-Homer_Scenes-Seen|Scenes Seen]] (2025-09-17)
+- [[2025-09-17_Post-Ken-Homer_Falling-Into-Old-Age|Falling Into Old Age]] (2025-09-17)
+- [[2025-09-17_Post-Ken-Homer_Tying-Breath-to-Listening|Tying Breath to Listening]] (2025-09-17)
 
-**Total posts:** 141
+**Total posts:** 144

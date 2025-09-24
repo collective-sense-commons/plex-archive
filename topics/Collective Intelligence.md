@@ -23,5 +23,6 @@ type: "topic"
 - [[2024-07-03_Post-George-Por_Mirror-Mirror-Tell-Me-Who-I-Am|Mirror, Mirror, Tell Me Who I Am]] by [[George Pór]] (2024-07-03)
 - [[2024-07-17_Post-Peter-Kaminski_Ken-Homer-with-Peter-Kaminski-2024-07-02|Ken Homer with Peter Kaminski, 2024-07-02]] by [[Peter Kaminski]] (2024-07-17)
 - [[2025-03-19_Post-George-Por_From-Community-Facilitator-to-AI-Shaman|From Community Facilitator to AI Shaman]] by [[George Pór]] (2025-03-19)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] by [[Charles Blass]] (2025-09-17)
 
-**Total posts:** 16
+**Total posts:** 17

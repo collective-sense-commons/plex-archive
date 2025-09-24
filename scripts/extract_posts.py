@@ -514,21 +514,19 @@ There is a [zip of all posts](/plex-archive-posts.zip) in Markdown format, usefu
 
 ## Navigation
 
-### TODO: where we have ` posts)\n"`, add code to say ` post)\n` instead if the count is 1
-
 ### By Author
 """
 
     for author in sorted(authors.keys()):
-        readme_content += f"- [[{author}|{author}]] ({len(authors[author])} posts)\n"
+        readme_content += f"- [[{author}|{author}]] ({len(authors[author])} post{'s' if len(authors[author]) != 1 else ''})\n"
 
     readme_content += "\n### By Topic\n"
     for topic in sorted(topics.keys()):
-        readme_content += f"- [[{topic}|{topic}]] ({len(topics[topic])} posts)\n"
+        readme_content += f"- [[{topic}|{topic}]] ({len(topics[topic])} post{'s' if len(topics[topic]) != 1 else ''})\n"
 
     readme_content += "\n### By Year\n"
     for year in sorted(years.keys()):
-        readme_content += f"- [[{year}]] ({len(years[year])} posts)\n"
+        readme_content += f"- [[{year}]] ({len(years[year])} post{'s' if len(years[year]) != 1 else ''})\n"
 
     readme_content += f"""
 

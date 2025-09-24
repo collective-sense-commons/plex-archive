@@ -17,5 +17,6 @@ type: "topic"
 - [[2024-07-17_Post-Peter-Kaminski_Ken-Homer-with-Peter-Kaminski-2024-07-02|Ken Homer with Peter Kaminski, 2024-07-02]] by [[Peter Kaminski]] (2024-07-17)
 - [[2025-01-01_Post-Tibet-Sprague_X-Marks-the-Past|X Marks the Past]] by [[Tibet Sprague]] (2025-01-01)
 - [[2025-06-18_Post-Peter-Kaminski_Plex-PatternsAn-Update|Plex PatternsAn Update]] by [[Peter Kaminski]] (2025-06-18)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] by [[Charles Blass]] (2025-09-17)
 
-**Total posts:** 10
+**Total posts:** 11

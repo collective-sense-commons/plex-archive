@@ -102,5 +102,7 @@ type: "topic"
 - [[2025-09-03_Post-Peter-Kaminski_Cabbages-and-Kings|Cabbages and Kings]] by [[Peter Kaminski]] (2025-09-03)
 - [[2025-09-03_Post-Peter-Kaminski_Nuts-and-Bolts|Nuts and Bolts]] by [[Peter Kaminski]] (2025-09-03)
 - [[2025-09-03_Post-Peter-Kaminski_Bits-and-Pieces-SnapStack|Bits and Pieces - SnapStack]] by [[Peter Kaminski]] (2025-09-03)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] by [[Charles Blass]] (2025-09-17)
+- [[2025-09-17_Post-Ken-Homer_Tying-Breath-to-Listening|Tying Breath to Listening]] by [[Ken Homer]] (2025-09-17)
 
-**Total posts:** 95
+**Total posts:** 97

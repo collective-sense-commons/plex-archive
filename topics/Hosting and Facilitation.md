@@ -17,5 +17,6 @@ type: "topic"
 - [[2025-03-19_Post-Todd-Hoskins_Between-Apocalypse-and-Awakening|Between Apocalypse and Awakening]] by [[Todd Hoskins]] (2025-03-19)
 - [[2025-05-07_Post-Peter-Kaminski_Commons-Stewardship-by-Communities|Commons Stewardship by Communities Project]] by [[Peter Kaminski]] (2025-05-07)
 - [[2025-08-06_Post-Peter-Kaminski_Civilization-Evolving|Civilization Evolving]] by [[Peter Kaminski]] (2025-08-06)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] by [[Charles Blass]] (2025-09-17)
 
-**Total posts:** 10
+**Total posts:** 11

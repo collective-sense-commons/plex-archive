@@ -100,5 +100,8 @@ type: "author"
 - [[2025-09-03_Post-Peter-Kaminski_Nuts-and-Bolts|Nuts and Bolts]] (2025-09-03)
 - [[2025-09-03_Post-Peter-Kaminski_Kith-and-Kin|Kith and Kin]] (2025-09-03)
 - [[2025-09-03_Post-Peter-Kaminski_Bits-and-Pieces-SnapStack|Bits and Pieces - SnapStack]] (2025-09-03)
+- [[2025-09-17_Post-Peter-Kaminski_Announcing-the-Plex-Archive|Announcing the Plex Archive]] (2025-09-17)
+- [[2025-09-17_Post-Peter-Kaminski_Transitioning-Plex|Transitioning Plex]] (2025-09-17)
+- [[2025-09-17_Post-Peter-Kaminski_WHTMATZ|WHTMATZ]] (2025-09-17)
 
-**Total posts:** 93
+**Total posts:** 96

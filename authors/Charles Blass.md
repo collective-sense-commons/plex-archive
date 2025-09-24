@@ -29,5 +29,6 @@ type: "author"
 - [[2025-01-01_Post-Charles-Blass_State-of-the-World-2025|State of the World 2025]] (2025-01-01)
 - [[2025-03-05_Post-Charles-Blass_Around-Town|Around Town]] (2025-03-05)
 - [[2025-03-19_Post-Charles-Blass_Good-Enough-Ancestor|Good Enough Ancestor]] (2025-03-19)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] (2025-09-17)
 
-**Total posts:** 22
+**Total posts:** 23

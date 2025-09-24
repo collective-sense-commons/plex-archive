@@ -58,5 +58,7 @@ type: "topic"
 - [[2025-02-05_Post-Kevin-Jones_After-the-Flood-Resilient|After the Flood Resilient Entrepreneurial Ecosystems]] by [[Kevin Jones]] (2025-02-05)
 - [[2025-03-19_Post-David-Witzel_Co-Creating-A-Thriving-Future-for-the|Co-Creating A Thriving Future for the Bay Area An Unconference, 3 May]] by [[David Witzel]] (2025-03-19)
 - [[2025-08-20_Post-Peter-Kaminski_Trust-and-Information-OGM-Call-2025-08|Trust and Information - OGM Call, 2025-08-14]] by [[Peter Kaminski]] (2025-08-20)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] by [[Charles Blass]] (2025-09-17)
+- [[2025-09-17_Post-Ken-Homer_Tying-Breath-to-Listening|Tying Breath to Listening]] by [[Ken Homer]] (2025-09-17)
 
-**Total posts:** 51
+**Total posts:** 53

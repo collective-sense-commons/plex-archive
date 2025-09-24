@@ -17,5 +17,6 @@ type: "topic"
 - [[2025-03-05_Post-Peter-Kaminski_Plex-Retrospective|Plex Retrospective]] by [[Peter Kaminski]] (2025-03-05)
 - [[2025-06-18_Post-Peter-Kaminski_Plex-PatternsAn-Update|Plex PatternsAn Update]] by [[Peter Kaminski]] (2025-06-18)
 - [[2025-08-20_Post-Peter-Kaminski_Trust-and-Information-OGM-Call-2025-08|Trust and Information - OGM Call, 2025-08-14]] by [[Peter Kaminski]] (2025-08-20)
+- [[2025-09-17_Post-Charles-Blass_In-Search-of-InterComms|In Search of InterComms]] by [[Charles Blass]] (2025-09-17)
 
-**Total posts:** 10
+**Total posts:** 11
